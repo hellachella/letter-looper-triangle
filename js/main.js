@@ -8,7 +8,7 @@ var makeTriangle = function (name, times) {
     document.write(name);
   }
 
-   document.write('<br>')
+   document.write('<br>');
 
 };
 
