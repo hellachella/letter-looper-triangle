@@ -7,7 +7,11 @@ var makeTriangle = function (name, times) {
   for (i = 0; i < times; i++) {
     document.write(name);
   }
+
+   document.write('<br>')
+
 };
+
 
 
 makeTriangle (theLetter, 1);
